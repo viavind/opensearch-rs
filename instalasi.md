@@ -65,6 +65,7 @@ Jika berhasil akan muncul informasi OpenSearch dalam format JSON.
 Jalankan:
 
 ```bash
+
 python create_all_indexes.py
 ```
 
