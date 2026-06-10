@@ -65,7 +65,10 @@ Jika berhasil akan muncul informasi OpenSearch dalam format JSON.
 Jalankan:
 
 ```bash
+pip install opensearch-py
+```
 
+```bash
 python create_all_indexes.py
 ```
 
