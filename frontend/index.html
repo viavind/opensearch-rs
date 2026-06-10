@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chatbot Rumah Sakit Sehat Selalu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page">
+    <div class="chat-container">
+      <div class="header">
+        <div>
+          <h1>Chatbot Rumah Sakit Sehat Selalu</h1>
+          <p>Question Answer System berbasis OpenSearch</p>
+        </div>
+        <span class="badge">OpenSearch QA</span>
+      </div>
+
+      <div class="chat-box" id="chatBox">
+        <div class="message bot">
+          Halo! Silakan tanyakan informasi seputar data Rumah Sakit Sehat Selalu.
+        </div>
+      </div>
+
+      <div class="input-area">
+        <input 
+          type="text" 
+          id="questionInput" 
+          placeholder="Contoh: Siapa dokter yang menangani pasien tertentu?"
+        />
+        <button onclick="askQuestion()">Tanya</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
