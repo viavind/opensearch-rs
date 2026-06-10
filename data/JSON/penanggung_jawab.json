@@ -1,0 +1,242 @@
+[
+  {
+    "id_penanggung_jawab": "PJ001",
+    "nama": "Rina Pratama",
+    "hubungan_dengan_pasien": "Ayah",
+    "id_pasien": "P001"
+  },
+  {
+    "id_penanggung_jawab": "PJ002",
+    "nama": "Dedi Saputra",
+    "hubungan_dengan_pasien": "Ibu",
+    "id_pasien": "P002"
+  },
+  {
+    "id_penanggung_jawab": "PJ003",
+    "nama": "Bayu Lestari",
+    "hubungan_dengan_pasien": "Suami",
+    "id_pasien": "P003"
+  },
+  {
+    "id_penanggung_jawab": "PJ004",
+    "nama": "Sari Mahendra",
+    "hubungan_dengan_pasien": "Istri",
+    "id_pasien": "P004"
+  },
+  {
+    "id_penanggung_jawab": "PJ005",
+    "nama": "Nina Putri",
+    "hubungan_dengan_pasien": "Anak",
+    "id_pasien": "P005"
+  },
+  {
+    "id_penanggung_jawab": "PJ006",
+    "nama": "Lia Akbar",
+    "hubungan_dengan_pasien": "Kakak",
+    "id_pasien": "P006"
+  },
+  {
+    "id_penanggung_jawab": "PJ007",
+    "nama": "Tono Anjani",
+    "hubungan_dengan_pasien": "Ayah",
+    "id_pasien": "P007"
+  },
+  {
+    "id_penanggung_jawab": "PJ008",
+    "nama": "Rafa Maulida",
+    "hubungan_dengan_pasien": "Ibu",
+    "id_pasien": "P008"
+  },
+  {
+    "id_penanggung_jawab": "PJ009",
+    "nama": "Maya Kurniawan",
+    "hubungan_dengan_pasien": "Suami",
+    "id_pasien": "P009"
+  },
+  {
+    "id_penanggung_jawab": "PJ010",
+    "nama": "Salsa Ramadhani",
+    "hubungan_dengan_pasien": "Istri",
+    "id_pasien": "P010"
+  },
+  {
+    "id_penanggung_jawab": "PJ011",
+    "nama": "Mira Alvaro",
+    "hubungan_dengan_pasien": "Anak",
+    "id_pasien": "P011"
+  },
+  {
+    "id_penanggung_jawab": "PJ012",
+    "nama": "Doni Widya",
+    "hubungan_dengan_pasien": "Kakak",
+    "id_pasien": "P012"
+  },
+  {
+    "id_penanggung_jawab": "PJ013",
+    "nama": "Arman Puspita",
+    "hubungan_dengan_pasien": "Ayah",
+    "id_pasien": "P013"
+  },
+  {
+    "id_penanggung_jawab": "PJ014",
+    "nama": "Riko Cahyani",
+    "hubungan_dengan_pasien": "Ibu",
+    "id_pasien": "P014"
+  },
+  {
+    "id_penanggung_jawab": "PJ015",
+    "nama": "Wina Rizky",
+    "hubungan_dengan_pasien": "Suami",
+    "id_pasien": "P015"
+  },
+  {
+    "id_penanggung_jawab": "PJ016",
+    "nama": "Nisa Amelia",
+    "hubungan_dengan_pasien": "Istri",
+    "id_pasien": "P016"
+  },
+  {
+    "id_penanggung_jawab": "PJ017",
+    "nama": "Sinta Mahesa",
+    "hubungan_dengan_pasien": "Anak",
+    "id_pasien": "P017"
+  },
+  {
+    "id_penanggung_jawab": "PJ018",
+    "nama": "Asep Fauziah",
+    "hubungan_dengan_pasien": "Kakak",
+    "id_pasien": "P018"
+  },
+  {
+    "id_penanggung_jawab": "PJ019",
+    "nama": "Dani Nuraini",
+    "hubungan_dengan_pasien": "Ayah",
+    "id_pasien": "P019"
+  },
+  {
+    "id_penanggung_jawab": "PJ020",
+    "nama": "Lina Saptono",
+    "hubungan_dengan_pasien": "Ibu",
+    "id_pasien": "P020"
+  },
+  {
+    "id_penanggung_jawab": "PJ021",
+    "nama": "Heri Maharani",
+    "hubungan_dengan_pasien": "Suami",
+    "id_pasien": "P021"
+  },
+  {
+    "id_penanggung_jawab": "PJ022",
+    "nama": "Yoga Rahmasari",
+    "hubungan_dengan_pasien": "Istri",
+    "id_pasien": "P022"
+  },
+  {
+    "id_penanggung_jawab": "PJ023",
+    "nama": "Siska Hidayat",
+    "hubungan_dengan_pasien": "Anak",
+    "id_pasien": "P023"
+  },
+  {
+    "id_penanggung_jawab": "PJ024",
+    "nama": "Rudi Aulia",
+    "hubungan_dengan_pasien": "Kakak",
+    "id_pasien": "P024"
+  },
+  {
+    "id_penanggung_jawab": "PJ025",
+    "nama": "Neli Maulana",
+    "hubungan_dengan_pasien": "Ayah",
+    "id_pasien": "P025"
+  },
+  {
+    "id_penanggung_jawab": "PJ026",
+    "nama": "Rena Amalia",
+    "hubungan_dengan_pasien": "Ibu",
+    "id_pasien": "P026"
+  },
+  {
+    "id_penanggung_jawab": "PJ027",
+    "nama": "Fani Salsabila",
+    "hubungan_dengan_pasien": "Suami",
+    "id_pasien": "P027"
+  },
+  {
+    "id_penanggung_jawab": "PJ028",
+    "nama": "Lulu Prakoso",
+    "hubungan_dengan_pasien": "Istri",
+    "id_pasien": "P028"
+  },
+  {
+    "id_penanggung_jawab": "PJ029",
+    "nama": "Mira Maharatu",
+    "hubungan_dengan_pasien": "Anak",
+    "id_pasien": "P029"
+  },
+  {
+    "id_penanggung_jawab": "PJ030",
+    "nama": "Rika Pranata",
+    "hubungan_dengan_pasien": "Kakak",
+    "id_pasien": "P030"
+  },
+  {
+    "id_penanggung_jawab": "PJ031",
+    "nama": "Tari Kusuma",
+    "hubungan_dengan_pasien": "Ayah",
+    "id_pasien": "P031"
+  },
+  {
+    "id_penanggung_jawab": "PJ032",
+    "nama": "Hana Adiwangsa",
+    "hubungan_dengan_pasien": "Ibu",
+    "id_pasien": "P032"
+  },
+  {
+    "id_penanggung_jawab": "PJ033",
+    "nama": "Bela Permata",
+    "hubungan_dengan_pasien": "Suami",
+    "id_pasien": "P033"
+  },
+  {
+    "id_penanggung_jawab": "PJ034",
+    "nama": "Dion Wibowo",
+    "hubungan_dengan_pasien": "Istri",
+    "id_pasien": "P034"
+  },
+  {
+    "id_penanggung_jawab": "PJ035",
+    "nama": "Tina Syahputra",
+    "hubungan_dengan_pasien": "Anak",
+    "id_pasien": "P035"
+  },
+  {
+    "id_penanggung_jawab": "PJ036",
+    "nama": "Fera Melani",
+    "hubungan_dengan_pasien": "Kakak",
+    "id_pasien": "P036"
+  },
+  {
+    "id_penanggung_jawab": "PJ037",
+    "nama": "Lina Oktaviani",
+    "hubungan_dengan_pasien": "Ayah",
+    "id_pasien": "P037"
+  },
+  {
+    "id_penanggung_jawab": "PJ038",
+    "nama": "Wulan Lutfi",
+    "hubungan_dengan_pasien": "Ibu",
+    "id_pasien": "P038"
+  },
+  {
+    "id_penanggung_jawab": "PJ039",
+    "nama": "Rama Calista",
+    "hubungan_dengan_pasien": "Suami",
+    "id_pasien": "P039"
+  },
+  {
+    "id_penanggung_jawab": "PJ040",
+    "nama": "Gita Ramzi",
+    "hubungan_dengan_pasien": "Istri",
+    "id_pasien": "P040"
+  }
+]

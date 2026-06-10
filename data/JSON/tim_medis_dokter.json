@@ -1,0 +1,482 @@
+[
+  {
+    "id_tim": "T001",
+    "id_dokter": "D001"
+  },
+  {
+    "id_tim": "T001",
+    "id_dokter": "D002"
+  },
+  {
+    "id_tim": "T001",
+    "id_dokter": "D003"
+  },
+  {
+    "id_tim": "T002",
+    "id_dokter": "D004"
+  },
+  {
+    "id_tim": "T002",
+    "id_dokter": "D005"
+  },
+  {
+    "id_tim": "T002",
+    "id_dokter": "D006"
+  },
+  {
+    "id_tim": "T003",
+    "id_dokter": "D007"
+  },
+  {
+    "id_tim": "T003",
+    "id_dokter": "D008"
+  },
+  {
+    "id_tim": "T003",
+    "id_dokter": "D009"
+  },
+  {
+    "id_tim": "T004",
+    "id_dokter": "D010"
+  },
+  {
+    "id_tim": "T004",
+    "id_dokter": "D011"
+  },
+  {
+    "id_tim": "T004",
+    "id_dokter": "D012"
+  },
+  {
+    "id_tim": "T005",
+    "id_dokter": "D013"
+  },
+  {
+    "id_tim": "T005",
+    "id_dokter": "D014"
+  },
+  {
+    "id_tim": "T005",
+    "id_dokter": "D015"
+  },
+  {
+    "id_tim": "T006",
+    "id_dokter": "D016"
+  },
+  {
+    "id_tim": "T006",
+    "id_dokter": "D017"
+  },
+  {
+    "id_tim": "T006",
+    "id_dokter": "D018"
+  },
+  {
+    "id_tim": "T007",
+    "id_dokter": "D019"
+  },
+  {
+    "id_tim": "T007",
+    "id_dokter": "D020"
+  },
+  {
+    "id_tim": "T007",
+    "id_dokter": "D021"
+  },
+  {
+    "id_tim": "T008",
+    "id_dokter": "D022"
+  },
+  {
+    "id_tim": "T008",
+    "id_dokter": "D023"
+  },
+  {
+    "id_tim": "T008",
+    "id_dokter": "D024"
+  },
+  {
+    "id_tim": "T009",
+    "id_dokter": "D025"
+  },
+  {
+    "id_tim": "T009",
+    "id_dokter": "D026"
+  },
+  {
+    "id_tim": "T009",
+    "id_dokter": "D027"
+  },
+  {
+    "id_tim": "T010",
+    "id_dokter": "D028"
+  },
+  {
+    "id_tim": "T010",
+    "id_dokter": "D029"
+  },
+  {
+    "id_tim": "T010",
+    "id_dokter": "D030"
+  },
+  {
+    "id_tim": "T011",
+    "id_dokter": "D031"
+  },
+  {
+    "id_tim": "T011",
+    "id_dokter": "D032"
+  },
+  {
+    "id_tim": "T011",
+    "id_dokter": "D033"
+  },
+  {
+    "id_tim": "T012",
+    "id_dokter": "D034"
+  },
+  {
+    "id_tim": "T012",
+    "id_dokter": "D035"
+  },
+  {
+    "id_tim": "T012",
+    "id_dokter": "D036"
+  },
+  {
+    "id_tim": "T013",
+    "id_dokter": "D037"
+  },
+  {
+    "id_tim": "T013",
+    "id_dokter": "D038"
+  },
+  {
+    "id_tim": "T013",
+    "id_dokter": "D039"
+  },
+  {
+    "id_tim": "T014",
+    "id_dokter": "D040"
+  },
+  {
+    "id_tim": "T014",
+    "id_dokter": "D001"
+  },
+  {
+    "id_tim": "T014",
+    "id_dokter": "D002"
+  },
+  {
+    "id_tim": "T015",
+    "id_dokter": "D003"
+  },
+  {
+    "id_tim": "T015",
+    "id_dokter": "D004"
+  },
+  {
+    "id_tim": "T015",
+    "id_dokter": "D005"
+  },
+  {
+    "id_tim": "T016",
+    "id_dokter": "D006"
+  },
+  {
+    "id_tim": "T016",
+    "id_dokter": "D007"
+  },
+  {
+    "id_tim": "T016",
+    "id_dokter": "D008"
+  },
+  {
+    "id_tim": "T017",
+    "id_dokter": "D009"
+  },
+  {
+    "id_tim": "T017",
+    "id_dokter": "D010"
+  },
+  {
+    "id_tim": "T017",
+    "id_dokter": "D011"
+  },
+  {
+    "id_tim": "T018",
+    "id_dokter": "D012"
+  },
+  {
+    "id_tim": "T018",
+    "id_dokter": "D013"
+  },
+  {
+    "id_tim": "T018",
+    "id_dokter": "D014"
+  },
+  {
+    "id_tim": "T019",
+    "id_dokter": "D015"
+  },
+  {
+    "id_tim": "T019",
+    "id_dokter": "D016"
+  },
+  {
+    "id_tim": "T019",
+    "id_dokter": "D017"
+  },
+  {
+    "id_tim": "T020",
+    "id_dokter": "D018"
+  },
+  {
+    "id_tim": "T020",
+    "id_dokter": "D019"
+  },
+  {
+    "id_tim": "T020",
+    "id_dokter": "D020"
+  },
+  {
+    "id_tim": "T021",
+    "id_dokter": "D021"
+  },
+  {
+    "id_tim": "T021",
+    "id_dokter": "D022"
+  },
+  {
+    "id_tim": "T021",
+    "id_dokter": "D023"
+  },
+  {
+    "id_tim": "T022",
+    "id_dokter": "D024"
+  },
+  {
+    "id_tim": "T022",
+    "id_dokter": "D025"
+  },
+  {
+    "id_tim": "T022",
+    "id_dokter": "D026"
+  },
+  {
+    "id_tim": "T023",
+    "id_dokter": "D027"
+  },
+  {
+    "id_tim": "T023",
+    "id_dokter": "D028"
+  },
+  {
+    "id_tim": "T023",
+    "id_dokter": "D029"
+  },
+  {
+    "id_tim": "T024",
+    "id_dokter": "D030"
+  },
+  {
+    "id_tim": "T024",
+    "id_dokter": "D031"
+  },
+  {
+    "id_tim": "T024",
+    "id_dokter": "D032"
+  },
+  {
+    "id_tim": "T025",
+    "id_dokter": "D033"
+  },
+  {
+    "id_tim": "T025",
+    "id_dokter": "D034"
+  },
+  {
+    "id_tim": "T025",
+    "id_dokter": "D035"
+  },
+  {
+    "id_tim": "T026",
+    "id_dokter": "D036"
+  },
+  {
+    "id_tim": "T026",
+    "id_dokter": "D037"
+  },
+  {
+    "id_tim": "T026",
+    "id_dokter": "D038"
+  },
+  {
+    "id_tim": "T027",
+    "id_dokter": "D039"
+  },
+  {
+    "id_tim": "T027",
+    "id_dokter": "D040"
+  },
+  {
+    "id_tim": "T027",
+    "id_dokter": "D001"
+  },
+  {
+    "id_tim": "T028",
+    "id_dokter": "D002"
+  },
+  {
+    "id_tim": "T028",
+    "id_dokter": "D003"
+  },
+  {
+    "id_tim": "T028",
+    "id_dokter": "D004"
+  },
+  {
+    "id_tim": "T029",
+    "id_dokter": "D005"
+  },
+  {
+    "id_tim": "T029",
+    "id_dokter": "D006"
+  },
+  {
+    "id_tim": "T029",
+    "id_dokter": "D007"
+  },
+  {
+    "id_tim": "T030",
+    "id_dokter": "D008"
+  },
+  {
+    "id_tim": "T030",
+    "id_dokter": "D009"
+  },
+  {
+    "id_tim": "T030",
+    "id_dokter": "D010"
+  },
+  {
+    "id_tim": "T031",
+    "id_dokter": "D011"
+  },
+  {
+    "id_tim": "T031",
+    "id_dokter": "D012"
+  },
+  {
+    "id_tim": "T031",
+    "id_dokter": "D013"
+  },
+  {
+    "id_tim": "T032",
+    "id_dokter": "D014"
+  },
+  {
+    "id_tim": "T032",
+    "id_dokter": "D015"
+  },
+  {
+    "id_tim": "T032",
+    "id_dokter": "D016"
+  },
+  {
+    "id_tim": "T033",
+    "id_dokter": "D017"
+  },
+  {
+    "id_tim": "T033",
+    "id_dokter": "D018"
+  },
+  {
+    "id_tim": "T033",
+    "id_dokter": "D019"
+  },
+  {
+    "id_tim": "T034",
+    "id_dokter": "D020"
+  },
+  {
+    "id_tim": "T034",
+    "id_dokter": "D021"
+  },
+  {
+    "id_tim": "T034",
+    "id_dokter": "D022"
+  },
+  {
+    "id_tim": "T035",
+    "id_dokter": "D023"
+  },
+  {
+    "id_tim": "T035",
+    "id_dokter": "D024"
+  },
+  {
+    "id_tim": "T035",
+    "id_dokter": "D025"
+  },
+  {
+    "id_tim": "T036",
+    "id_dokter": "D026"
+  },
+  {
+    "id_tim": "T036",
+    "id_dokter": "D027"
+  },
+  {
+    "id_tim": "T036",
+    "id_dokter": "D028"
+  },
+  {
+    "id_tim": "T037",
+    "id_dokter": "D029"
+  },
+  {
+    "id_tim": "T037",
+    "id_dokter": "D030"
+  },
+  {
+    "id_tim": "T037",
+    "id_dokter": "D031"
+  },
+  {
+    "id_tim": "T038",
+    "id_dokter": "D032"
+  },
+  {
+    "id_tim": "T038",
+    "id_dokter": "D033"
+  },
+  {
+    "id_tim": "T038",
+    "id_dokter": "D034"
+  },
+  {
+    "id_tim": "T039",
+    "id_dokter": "D035"
+  },
+  {
+    "id_tim": "T039",
+    "id_dokter": "D036"
+  },
+  {
+    "id_tim": "T039",
+    "id_dokter": "D037"
+  },
+  {
+    "id_tim": "T040",
+    "id_dokter": "D038"
+  },
+  {
+    "id_tim": "T040",
+    "id_dokter": "D039"
+  },
+  {
+    "id_tim": "T040",
+    "id_dokter": "D040"
+  }
+]

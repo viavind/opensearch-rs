@@ -1,0 +1,202 @@
+[
+  {
+    "id_layanan": "L001",
+    "nama_layanan": "Jasa dokter",
+    "jenis_layanan": "dokter"
+  },
+  {
+    "id_layanan": "L002",
+    "nama_layanan": "Tindakan operasi",
+    "jenis_layanan": "medis"
+  },
+  {
+    "id_layanan": "L003",
+    "nama_layanan": "Obat pulang",
+    "jenis_layanan": "obat"
+  },
+  {
+    "id_layanan": "L004",
+    "nama_layanan": "CT Scan",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L005",
+    "nama_layanan": "MRI",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L006",
+    "nama_layanan": "Rawat inap VIP",
+    "jenis_layanan": "rawat_inap"
+  },
+  {
+    "id_layanan": "L007",
+    "nama_layanan": "EEG",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L008",
+    "nama_layanan": "USG jantung",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L009",
+    "nama_layanan": "Obat resep pulang",
+    "jenis_layanan": "obat"
+  },
+  {
+    "id_layanan": "L010",
+    "nama_layanan": "Konsultasi spesialis",
+    "jenis_layanan": "dokter"
+  },
+  {
+    "id_layanan": "L011",
+    "nama_layanan": "Jasa dokter 11",
+    "jenis_layanan": "dokter"
+  },
+  {
+    "id_layanan": "L012",
+    "nama_layanan": "Tindakan operasi 12",
+    "jenis_layanan": "medis"
+  },
+  {
+    "id_layanan": "L013",
+    "nama_layanan": "Obat pulang 13",
+    "jenis_layanan": "obat"
+  },
+  {
+    "id_layanan": "L014",
+    "nama_layanan": "CT Scan 14",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L015",
+    "nama_layanan": "MRI 15",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L016",
+    "nama_layanan": "Rawat inap VIP 16",
+    "jenis_layanan": "rawat_inap"
+  },
+  {
+    "id_layanan": "L017",
+    "nama_layanan": "EEG 17",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L018",
+    "nama_layanan": "USG jantung 18",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L019",
+    "nama_layanan": "Obat resep pulang 19",
+    "jenis_layanan": "obat"
+  },
+  {
+    "id_layanan": "L020",
+    "nama_layanan": "Konsultasi spesialis 20",
+    "jenis_layanan": "dokter"
+  },
+  {
+    "id_layanan": "L021",
+    "nama_layanan": "Jasa dokter 21",
+    "jenis_layanan": "dokter"
+  },
+  {
+    "id_layanan": "L022",
+    "nama_layanan": "Tindakan operasi 22",
+    "jenis_layanan": "medis"
+  },
+  {
+    "id_layanan": "L023",
+    "nama_layanan": "Obat pulang 23",
+    "jenis_layanan": "obat"
+  },
+  {
+    "id_layanan": "L024",
+    "nama_layanan": "CT Scan 24",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L025",
+    "nama_layanan": "MRI 25",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L026",
+    "nama_layanan": "Rawat inap VIP 26",
+    "jenis_layanan": "rawat_inap"
+  },
+  {
+    "id_layanan": "L027",
+    "nama_layanan": "EEG 27",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L028",
+    "nama_layanan": "USG jantung 28",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L029",
+    "nama_layanan": "Obat resep pulang 29",
+    "jenis_layanan": "obat"
+  },
+  {
+    "id_layanan": "L030",
+    "nama_layanan": "Konsultasi spesialis 30",
+    "jenis_layanan": "dokter"
+  },
+  {
+    "id_layanan": "L031",
+    "nama_layanan": "Jasa dokter 31",
+    "jenis_layanan": "dokter"
+  },
+  {
+    "id_layanan": "L032",
+    "nama_layanan": "Tindakan operasi 32",
+    "jenis_layanan": "medis"
+  },
+  {
+    "id_layanan": "L033",
+    "nama_layanan": "Obat pulang 33",
+    "jenis_layanan": "obat"
+  },
+  {
+    "id_layanan": "L034",
+    "nama_layanan": "CT Scan 34",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L035",
+    "nama_layanan": "MRI 35",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L036",
+    "nama_layanan": "Rawat inap VIP 36",
+    "jenis_layanan": "rawat_inap"
+  },
+  {
+    "id_layanan": "L037",
+    "nama_layanan": "EEG 37",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L038",
+    "nama_layanan": "USG jantung 38",
+    "jenis_layanan": "penunjang"
+  },
+  {
+    "id_layanan": "L039",
+    "nama_layanan": "Obat resep pulang 39",
+    "jenis_layanan": "obat"
+  },
+  {
+    "id_layanan": "L040",
+    "nama_layanan": "Konsultasi spesialis 40",
+    "jenis_layanan": "dokter"
+  }
+]

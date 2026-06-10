@@ -1,0 +1,282 @@
+[
+  {
+    "id_polis": "PL001",
+    "nomor_polis": "ASR001",
+    "status_polis": "aktif",
+    "id_pasien": "P001",
+    "id_asuransi": "A001"
+  },
+  {
+    "id_polis": "PL002",
+    "nomor_polis": "ASR002",
+    "status_polis": "aktif",
+    "id_pasien": "P002",
+    "id_asuransi": "A002"
+  },
+  {
+    "id_polis": "PL003",
+    "nomor_polis": "ASR003",
+    "status_polis": "nonaktif",
+    "id_pasien": "P003",
+    "id_asuransi": "A003"
+  },
+  {
+    "id_polis": "PL004",
+    "nomor_polis": "ASR004",
+    "status_polis": "aktif",
+    "id_pasien": "P004",
+    "id_asuransi": "A004"
+  },
+  {
+    "id_polis": "PL005",
+    "nomor_polis": "ASR005",
+    "status_polis": "aktif",
+    "id_pasien": "P005",
+    "id_asuransi": "A005"
+  },
+  {
+    "id_polis": "PL006",
+    "nomor_polis": "ASR006",
+    "status_polis": "nonaktif",
+    "id_pasien": "P006",
+    "id_asuransi": "A006"
+  },
+  {
+    "id_polis": "PL007",
+    "nomor_polis": "ASR007",
+    "status_polis": "aktif",
+    "id_pasien": "P007",
+    "id_asuransi": "A007"
+  },
+  {
+    "id_polis": "PL008",
+    "nomor_polis": "ASR008",
+    "status_polis": "aktif",
+    "id_pasien": "P008",
+    "id_asuransi": "A008"
+  },
+  {
+    "id_polis": "PL009",
+    "nomor_polis": "ASR009",
+    "status_polis": "nonaktif",
+    "id_pasien": "P009",
+    "id_asuransi": "A009"
+  },
+  {
+    "id_polis": "PL010",
+    "nomor_polis": "ASR010",
+    "status_polis": "aktif",
+    "id_pasien": "P010",
+    "id_asuransi": "A010"
+  },
+  {
+    "id_polis": "PL011",
+    "nomor_polis": "ASR011",
+    "status_polis": "aktif",
+    "id_pasien": "P011",
+    "id_asuransi": "A011"
+  },
+  {
+    "id_polis": "PL012",
+    "nomor_polis": "ASR012",
+    "status_polis": "nonaktif",
+    "id_pasien": "P012",
+    "id_asuransi": "A012"
+  },
+  {
+    "id_polis": "PL013",
+    "nomor_polis": "ASR013",
+    "status_polis": "aktif",
+    "id_pasien": "P013",
+    "id_asuransi": "A013"
+  },
+  {
+    "id_polis": "PL014",
+    "nomor_polis": "ASR014",
+    "status_polis": "aktif",
+    "id_pasien": "P014",
+    "id_asuransi": "A014"
+  },
+  {
+    "id_polis": "PL015",
+    "nomor_polis": "ASR015",
+    "status_polis": "nonaktif",
+    "id_pasien": "P015",
+    "id_asuransi": "A015"
+  },
+  {
+    "id_polis": "PL016",
+    "nomor_polis": "ASR016",
+    "status_polis": "aktif",
+    "id_pasien": "P016",
+    "id_asuransi": "A016"
+  },
+  {
+    "id_polis": "PL017",
+    "nomor_polis": "ASR017",
+    "status_polis": "aktif",
+    "id_pasien": "P017",
+    "id_asuransi": "A017"
+  },
+  {
+    "id_polis": "PL018",
+    "nomor_polis": "ASR018",
+    "status_polis": "nonaktif",
+    "id_pasien": "P018",
+    "id_asuransi": "A018"
+  },
+  {
+    "id_polis": "PL019",
+    "nomor_polis": "ASR019",
+    "status_polis": "aktif",
+    "id_pasien": "P019",
+    "id_asuransi": "A019"
+  },
+  {
+    "id_polis": "PL020",
+    "nomor_polis": "ASR020",
+    "status_polis": "aktif",
+    "id_pasien": "P020",
+    "id_asuransi": "A020"
+  },
+  {
+    "id_polis": "PL021",
+    "nomor_polis": "ASR021",
+    "status_polis": "nonaktif",
+    "id_pasien": "P021",
+    "id_asuransi": "A021"
+  },
+  {
+    "id_polis": "PL022",
+    "nomor_polis": "ASR022",
+    "status_polis": "aktif",
+    "id_pasien": "P022",
+    "id_asuransi": "A022"
+  },
+  {
+    "id_polis": "PL023",
+    "nomor_polis": "ASR023",
+    "status_polis": "aktif",
+    "id_pasien": "P023",
+    "id_asuransi": "A023"
+  },
+  {
+    "id_polis": "PL024",
+    "nomor_polis": "ASR024",
+    "status_polis": "nonaktif",
+    "id_pasien": "P024",
+    "id_asuransi": "A024"
+  },
+  {
+    "id_polis": "PL025",
+    "nomor_polis": "ASR025",
+    "status_polis": "aktif",
+    "id_pasien": "P025",
+    "id_asuransi": "A025"
+  },
+  {
+    "id_polis": "PL026",
+    "nomor_polis": "ASR026",
+    "status_polis": "aktif",
+    "id_pasien": "P026",
+    "id_asuransi": "A026"
+  },
+  {
+    "id_polis": "PL027",
+    "nomor_polis": "ASR027",
+    "status_polis": "nonaktif",
+    "id_pasien": "P027",
+    "id_asuransi": "A027"
+  },
+  {
+    "id_polis": "PL028",
+    "nomor_polis": "ASR028",
+    "status_polis": "aktif",
+    "id_pasien": "P028",
+    "id_asuransi": "A028"
+  },
+  {
+    "id_polis": "PL029",
+    "nomor_polis": "ASR029",
+    "status_polis": "aktif",
+    "id_pasien": "P029",
+    "id_asuransi": "A029"
+  },
+  {
+    "id_polis": "PL030",
+    "nomor_polis": "ASR030",
+    "status_polis": "nonaktif",
+    "id_pasien": "P030",
+    "id_asuransi": "A030"
+  },
+  {
+    "id_polis": "PL031",
+    "nomor_polis": "ASR031",
+    "status_polis": "aktif",
+    "id_pasien": "P031",
+    "id_asuransi": "A031"
+  },
+  {
+    "id_polis": "PL032",
+    "nomor_polis": "ASR032",
+    "status_polis": "aktif",
+    "id_pasien": "P032",
+    "id_asuransi": "A032"
+  },
+  {
+    "id_polis": "PL033",
+    "nomor_polis": "ASR033",
+    "status_polis": "nonaktif",
+    "id_pasien": "P033",
+    "id_asuransi": "A033"
+  },
+  {
+    "id_polis": "PL034",
+    "nomor_polis": "ASR034",
+    "status_polis": "aktif",
+    "id_pasien": "P034",
+    "id_asuransi": "A034"
+  },
+  {
+    "id_polis": "PL035",
+    "nomor_polis": "ASR035",
+    "status_polis": "aktif",
+    "id_pasien": "P035",
+    "id_asuransi": "A035"
+  },
+  {
+    "id_polis": "PL036",
+    "nomor_polis": "ASR036",
+    "status_polis": "nonaktif",
+    "id_pasien": "P036",
+    "id_asuransi": "A036"
+  },
+  {
+    "id_polis": "PL037",
+    "nomor_polis": "ASR037",
+    "status_polis": "aktif",
+    "id_pasien": "P037",
+    "id_asuransi": "A037"
+  },
+  {
+    "id_polis": "PL038",
+    "nomor_polis": "ASR038",
+    "status_polis": "aktif",
+    "id_pasien": "P038",
+    "id_asuransi": "A038"
+  },
+  {
+    "id_polis": "PL039",
+    "nomor_polis": "ASR039",
+    "status_polis": "nonaktif",
+    "id_pasien": "P039",
+    "id_asuransi": "A039"
+  },
+  {
+    "id_polis": "PL040",
+    "nomor_polis": "ASR040",
+    "status_polis": "aktif",
+    "id_pasien": "P040",
+    "id_asuransi": "A040"
+  }
+]

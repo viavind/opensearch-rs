@@ -1,0 +1,282 @@
+[
+  {
+    "id_pembayaran": "BYR001",
+    "id_tagihan": "TGH001",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 2100000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR002",
+    "id_tagihan": "TGH002",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 2200000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR003",
+    "id_tagihan": "TGH003",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 2300000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR004",
+    "id_tagihan": "TGH004",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 2400000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR005",
+    "id_tagihan": "TGH005",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 2500000,
+    "status_bayar": "pending"
+  },
+  {
+    "id_pembayaran": "BYR006",
+    "id_tagihan": "TGH006",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 2600000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR007",
+    "id_tagihan": "TGH007",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 2700000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR008",
+    "id_tagihan": "TGH008",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 2800000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR009",
+    "id_tagihan": "TGH009",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 2900000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR010",
+    "id_tagihan": "TGH010",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 3000000,
+    "status_bayar": "pending"
+  },
+  {
+    "id_pembayaran": "BYR011",
+    "id_tagihan": "TGH011",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 3100000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR012",
+    "id_tagihan": "TGH012",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 3200000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR013",
+    "id_tagihan": "TGH013",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 3300000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR014",
+    "id_tagihan": "TGH014",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 3400000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR015",
+    "id_tagihan": "TGH015",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 3500000,
+    "status_bayar": "pending"
+  },
+  {
+    "id_pembayaran": "BYR016",
+    "id_tagihan": "TGH016",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 3600000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR017",
+    "id_tagihan": "TGH017",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 3700000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR018",
+    "id_tagihan": "TGH018",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 3800000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR019",
+    "id_tagihan": "TGH019",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 3900000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR020",
+    "id_tagihan": "TGH020",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 4000000,
+    "status_bayar": "pending"
+  },
+  {
+    "id_pembayaran": "BYR021",
+    "id_tagihan": "TGH021",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 4100000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR022",
+    "id_tagihan": "TGH022",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 4200000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR023",
+    "id_tagihan": "TGH023",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 4300000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR024",
+    "id_tagihan": "TGH024",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 4400000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR025",
+    "id_tagihan": "TGH025",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 4500000,
+    "status_bayar": "pending"
+  },
+  {
+    "id_pembayaran": "BYR026",
+    "id_tagihan": "TGH026",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 4600000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR027",
+    "id_tagihan": "TGH027",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 4700000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR028",
+    "id_tagihan": "TGH028",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 4800000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR029",
+    "id_tagihan": "TGH029",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 4900000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR030",
+    "id_tagihan": "TGH030",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 5000000,
+    "status_bayar": "pending"
+  },
+  {
+    "id_pembayaran": "BYR031",
+    "id_tagihan": "TGH031",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 5100000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR032",
+    "id_tagihan": "TGH032",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 5200000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR033",
+    "id_tagihan": "TGH033",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 5300000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR034",
+    "id_tagihan": "TGH034",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 5400000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR035",
+    "id_tagihan": "TGH035",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 5500000,
+    "status_bayar": "pending"
+  },
+  {
+    "id_pembayaran": "BYR036",
+    "id_tagihan": "TGH036",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 5600000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR037",
+    "id_tagihan": "TGH037",
+    "metode_bayar": "asuransi",
+    "jumlah_bayar": 5700000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR038",
+    "id_tagihan": "TGH038",
+    "metode_bayar": "tunai",
+    "jumlah_bayar": 5800000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR039",
+    "id_tagihan": "TGH039",
+    "metode_bayar": "debit",
+    "jumlah_bayar": 5900000,
+    "status_bayar": "berhasil"
+  },
+  {
+    "id_pembayaran": "BYR040",
+    "id_tagihan": "TGH040",
+    "metode_bayar": "kartu kredit",
+    "jumlah_bayar": 6000000,
+    "status_bayar": "pending"
+  }
+]

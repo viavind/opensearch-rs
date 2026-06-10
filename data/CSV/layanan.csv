@@ -1,0 +1,41 @@
+id_layanan,nama_layanan,jenis_layanan
+L001,Jasa dokter,dokter
+L002,Tindakan operasi,medis
+L003,Obat pulang,obat
+L004,CT Scan,penunjang
+L005,MRI,penunjang
+L006,Rawat inap VIP,rawat_inap
+L007,EEG,penunjang
+L008,USG jantung,penunjang
+L009,Obat resep pulang,obat
+L010,Konsultasi spesialis,dokter
+L011,Jasa dokter 11,dokter
+L012,Tindakan operasi 12,medis
+L013,Obat pulang 13,obat
+L014,CT Scan 14,penunjang
+L015,MRI 15,penunjang
+L016,Rawat inap VIP 16,rawat_inap
+L017,EEG 17,penunjang
+L018,USG jantung 18,penunjang
+L019,Obat resep pulang 19,obat
+L020,Konsultasi spesialis 20,dokter
+L021,Jasa dokter 21,dokter
+L022,Tindakan operasi 22,medis
+L023,Obat pulang 23,obat
+L024,CT Scan 24,penunjang
+L025,MRI 25,penunjang
+L026,Rawat inap VIP 26,rawat_inap
+L027,EEG 27,penunjang
+L028,USG jantung 28,penunjang
+L029,Obat resep pulang 29,obat
+L030,Konsultasi spesialis 30,dokter
+L031,Jasa dokter 31,dokter
+L032,Tindakan operasi 32,medis
+L033,Obat pulang 33,obat
+L034,CT Scan 34,penunjang
+L035,MRI 35,penunjang
+L036,Rawat inap VIP 36,rawat_inap
+L037,EEG 37,penunjang
+L038,USG jantung 38,penunjang
+L039,Obat resep pulang 39,obat
+L040,Konsultasi spesialis 40,dokter

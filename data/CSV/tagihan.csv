@@ -1,0 +1,41 @@
+id_tagihan,id_pasien,metode_pembayaran,total_biaya,status_bayar
+TGH001,P001,asuransi,3125000,lunas
+TGH002,P002,pribadi,3250000,lunas
+TGH003,P003,asuransi,3375000,belum lunas
+TGH004,P004,pribadi,3500000,lunas
+TGH005,P005,asuransi,3625000,lunas
+TGH006,P006,pribadi,3750000,belum lunas
+TGH007,P007,asuransi,3875000,lunas
+TGH008,P008,pribadi,4000000,lunas
+TGH009,P009,asuransi,4125000,belum lunas
+TGH010,P010,pribadi,4250000,lunas
+TGH011,P011,asuransi,4375000,lunas
+TGH012,P012,pribadi,4500000,belum lunas
+TGH013,P013,asuransi,4625000,lunas
+TGH014,P014,pribadi,4750000,lunas
+TGH015,P015,asuransi,4875000,belum lunas
+TGH016,P016,pribadi,5000000,lunas
+TGH017,P017,asuransi,5125000,lunas
+TGH018,P018,pribadi,5250000,belum lunas
+TGH019,P019,asuransi,5375000,lunas
+TGH020,P020,pribadi,5500000,lunas
+TGH021,P021,asuransi,5625000,belum lunas
+TGH022,P022,pribadi,5750000,lunas
+TGH023,P023,asuransi,5875000,lunas
+TGH024,P024,pribadi,6000000,belum lunas
+TGH025,P025,asuransi,6125000,lunas
+TGH026,P026,pribadi,6250000,lunas
+TGH027,P027,asuransi,6375000,belum lunas
+TGH028,P028,pribadi,6500000,lunas
+TGH029,P029,asuransi,6625000,lunas
+TGH030,P030,pribadi,6750000,belum lunas
+TGH031,P031,asuransi,6875000,lunas
+TGH032,P032,pribadi,7000000,lunas
+TGH033,P033,asuransi,7125000,belum lunas
+TGH034,P034,pribadi,7250000,lunas
+TGH035,P035,asuransi,7375000,lunas
+TGH036,P036,pribadi,7500000,belum lunas
+TGH037,P037,asuransi,7625000,lunas
+TGH038,P038,pribadi,7750000,lunas
+TGH039,P039,asuransi,7875000,belum lunas
+TGH040,P040,pribadi,8000000,lunas

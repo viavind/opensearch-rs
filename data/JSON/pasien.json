@@ -1,0 +1,402 @@
+[
+  {
+    "id_pasien": "P001",
+    "nama_pasien": "Alya Pratama",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ001",
+    "id_tim": "T001",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL001",
+    "id_tagihan": "TGH001"
+  },
+  {
+    "id_pasien": "P002",
+    "nama_pasien": "Bagas Saputra",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ002",
+    "id_tim": "T002",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH002"
+  },
+  {
+    "id_pasien": "P003",
+    "nama_pasien": "Citra Lestari",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ003",
+    "id_tim": "T003",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL003",
+    "id_tagihan": "TGH003"
+  },
+  {
+    "id_pasien": "P004",
+    "nama_pasien": "Dimas Mahendra",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ004",
+    "id_tim": "T004",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH004"
+  },
+  {
+    "id_pasien": "P005",
+    "nama_pasien": "Eka Putri",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ005",
+    "id_tim": "T005",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL005",
+    "id_tagihan": "TGH005"
+  },
+  {
+    "id_pasien": "P006",
+    "nama_pasien": "Farhan Akbar",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ006",
+    "id_tim": "T006",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH006"
+  },
+  {
+    "id_pasien": "P007",
+    "nama_pasien": "Gita Anjani",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ007",
+    "id_tim": "T007",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL007",
+    "id_tagihan": "TGH007"
+  },
+  {
+    "id_pasien": "P008",
+    "nama_pasien": "Hana Maulida",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ008",
+    "id_tim": "T008",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH008"
+  },
+  {
+    "id_pasien": "P009",
+    "nama_pasien": "Indra Kurniawan",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ009",
+    "id_tim": "T009",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL009",
+    "id_tagihan": "TGH009"
+  },
+  {
+    "id_pasien": "P010",
+    "nama_pasien": "Jihan Ramadhani",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ010",
+    "id_tim": "T010",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH010"
+  },
+  {
+    "id_pasien": "P011",
+    "nama_pasien": "Kevin Alvaro",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ011",
+    "id_tim": "T011",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL011",
+    "id_tagihan": "TGH011"
+  },
+  {
+    "id_pasien": "P012",
+    "nama_pasien": "Laras Widya",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ012",
+    "id_tim": "T012",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH012"
+  },
+  {
+    "id_pasien": "P013",
+    "nama_pasien": "Maya Puspita",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ013",
+    "id_tim": "T013",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL013",
+    "id_tagihan": "TGH013"
+  },
+  {
+    "id_pasien": "P014",
+    "nama_pasien": "Nanda Cahyani",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ014",
+    "id_tim": "T014",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH014"
+  },
+  {
+    "id_pasien": "P015",
+    "nama_pasien": "Omar Rizky",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ015",
+    "id_tim": "T015",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL015",
+    "id_tagihan": "TGH015"
+  },
+  {
+    "id_pasien": "P016",
+    "nama_pasien": "Putri Amelia",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ016",
+    "id_tim": "T016",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH016"
+  },
+  {
+    "id_pasien": "P017",
+    "nama_pasien": "Qori Mahesa",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ017",
+    "id_tim": "T017",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL017",
+    "id_tagihan": "TGH017"
+  },
+  {
+    "id_pasien": "P018",
+    "nama_pasien": "Rina Fauziah",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ018",
+    "id_tim": "T018",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH018"
+  },
+  {
+    "id_pasien": "P019",
+    "nama_pasien": "Salsa Nuraini",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ019",
+    "id_tim": "T019",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL019",
+    "id_tagihan": "TGH019"
+  },
+  {
+    "id_pasien": "P020",
+    "nama_pasien": "Tegar Saptono",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ020",
+    "id_tim": "T020",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH020"
+  },
+  {
+    "id_pasien": "P021",
+    "nama_pasien": "Ulfa Maharani",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ021",
+    "id_tim": "T021",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL021",
+    "id_tagihan": "TGH021"
+  },
+  {
+    "id_pasien": "P022",
+    "nama_pasien": "Vina Rahmasari",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ022",
+    "id_tim": "T022",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH022"
+  },
+  {
+    "id_pasien": "P023",
+    "nama_pasien": "Wahyu Hidayat",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ023",
+    "id_tim": "T023",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL023",
+    "id_tagihan": "TGH023"
+  },
+  {
+    "id_pasien": "P024",
+    "nama_pasien": "Xena Aulia",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ024",
+    "id_tim": "T024",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH024"
+  },
+  {
+    "id_pasien": "P025",
+    "nama_pasien": "Yusuf Maulana",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ025",
+    "id_tim": "T025",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL025",
+    "id_tagihan": "TGH025"
+  },
+  {
+    "id_pasien": "P026",
+    "nama_pasien": "Zahra Amalia",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ026",
+    "id_tim": "T026",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH026"
+  },
+  {
+    "id_pasien": "P027",
+    "nama_pasien": "Adinda Salsabila",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ027",
+    "id_tim": "T027",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL027",
+    "id_tagihan": "TGH027"
+  },
+  {
+    "id_pasien": "P028",
+    "nama_pasien": "Bimo Prakoso",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ028",
+    "id_tim": "T028",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH028"
+  },
+  {
+    "id_pasien": "P029",
+    "nama_pasien": "Celine Maharatu",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ029",
+    "id_tim": "T029",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL029",
+    "id_tagihan": "TGH029"
+  },
+  {
+    "id_pasien": "P030",
+    "nama_pasien": "Daffa Pranata",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ030",
+    "id_tim": "T030",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH030"
+  },
+  {
+    "id_pasien": "P031",
+    "nama_pasien": "Elina Kusuma",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ031",
+    "id_tim": "T031",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL031",
+    "id_tagihan": "TGH031"
+  },
+  {
+    "id_pasien": "P032",
+    "nama_pasien": "Fikri Adiwangsa",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ032",
+    "id_tim": "T032",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH032"
+  },
+  {
+    "id_pasien": "P033",
+    "nama_pasien": "Gilang Permata",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ033",
+    "id_tim": "T033",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL033",
+    "id_tagihan": "TGH033"
+  },
+  {
+    "id_pasien": "P034",
+    "nama_pasien": "Hasna Wibowo",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ034",
+    "id_tim": "T034",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH034"
+  },
+  {
+    "id_pasien": "P035",
+    "nama_pasien": "Iqbal Syahputra",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ035",
+    "id_tim": "T035",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL035",
+    "id_tagihan": "TGH035"
+  },
+  {
+    "id_pasien": "P036",
+    "nama_pasien": "Jovita Melani",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ036",
+    "id_tim": "T036",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH036"
+  },
+  {
+    "id_pasien": "P037",
+    "nama_pasien": "Kania Oktaviani",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ037",
+    "id_tim": "T037",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL037",
+    "id_tagihan": "TGH037"
+  },
+  {
+    "id_pasien": "P038",
+    "nama_pasien": "Lutfiansyah",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ038",
+    "id_tim": "T038",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH038"
+  },
+  {
+    "id_pasien": "P039",
+    "nama_pasien": "Mira Calista",
+    "jenis_pasien": "VIP",
+    "id_penanggung_jawab": "PJ039",
+    "id_tim": "T039",
+    "pembayaran_awal": "asuransi",
+    "id_polis": "PL039",
+    "id_tagihan": "TGH039"
+  },
+  {
+    "id_pasien": "P040",
+    "nama_pasien": "Naufal Ramzi",
+    "jenis_pasien": "Regular",
+    "id_penanggung_jawab": "PJ040",
+    "id_tim": "T040",
+    "pembayaran_awal": "pribadi",
+    "id_polis": "",
+    "id_tagihan": "TGH040"
+  }
+]

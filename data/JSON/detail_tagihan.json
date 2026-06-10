@@ -1,0 +1,362 @@
+[
+  {
+    "id_detail_tagihan": "DT001",
+    "id_tagihan": "TGH001",
+    "id_layanan": "L001",
+    "subtotal": 600000,
+    "status_cover": "cover",
+    "nominal_cover": 600000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT002",
+    "id_tagihan": "TGH002",
+    "id_layanan": "L002",
+    "subtotal": 700000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 700000
+  },
+  {
+    "id_detail_tagihan": "DT003",
+    "id_tagihan": "TGH003",
+    "id_layanan": "L003",
+    "subtotal": 800000,
+    "status_cover": "cover",
+    "nominal_cover": 800000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT004",
+    "id_tagihan": "TGH004",
+    "id_layanan": "L004",
+    "subtotal": 900000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 900000
+  },
+  {
+    "id_detail_tagihan": "DT005",
+    "id_tagihan": "TGH005",
+    "id_layanan": "L005",
+    "subtotal": 1000000,
+    "status_cover": "cover",
+    "nominal_cover": 1000000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT006",
+    "id_tagihan": "TGH006",
+    "id_layanan": "L006",
+    "subtotal": 1100000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 1100000
+  },
+  {
+    "id_detail_tagihan": "DT007",
+    "id_tagihan": "TGH007",
+    "id_layanan": "L007",
+    "subtotal": 1200000,
+    "status_cover": "cover",
+    "nominal_cover": 1200000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT008",
+    "id_tagihan": "TGH008",
+    "id_layanan": "L008",
+    "subtotal": 1300000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 1300000
+  },
+  {
+    "id_detail_tagihan": "DT009",
+    "id_tagihan": "TGH009",
+    "id_layanan": "L009",
+    "subtotal": 1400000,
+    "status_cover": "cover",
+    "nominal_cover": 1400000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT010",
+    "id_tagihan": "TGH010",
+    "id_layanan": "L010",
+    "subtotal": 1500000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 1500000
+  },
+  {
+    "id_detail_tagihan": "DT011",
+    "id_tagihan": "TGH011",
+    "id_layanan": "L011",
+    "subtotal": 1600000,
+    "status_cover": "cover",
+    "nominal_cover": 1600000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT012",
+    "id_tagihan": "TGH012",
+    "id_layanan": "L012",
+    "subtotal": 1700000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 1700000
+  },
+  {
+    "id_detail_tagihan": "DT013",
+    "id_tagihan": "TGH013",
+    "id_layanan": "L013",
+    "subtotal": 1800000,
+    "status_cover": "cover",
+    "nominal_cover": 1800000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT014",
+    "id_tagihan": "TGH014",
+    "id_layanan": "L014",
+    "subtotal": 1900000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 1900000
+  },
+  {
+    "id_detail_tagihan": "DT015",
+    "id_tagihan": "TGH015",
+    "id_layanan": "L015",
+    "subtotal": 2000000,
+    "status_cover": "cover",
+    "nominal_cover": 2000000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT016",
+    "id_tagihan": "TGH016",
+    "id_layanan": "L016",
+    "subtotal": 2100000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 2100000
+  },
+  {
+    "id_detail_tagihan": "DT017",
+    "id_tagihan": "TGH017",
+    "id_layanan": "L017",
+    "subtotal": 2200000,
+    "status_cover": "cover",
+    "nominal_cover": 2200000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT018",
+    "id_tagihan": "TGH018",
+    "id_layanan": "L018",
+    "subtotal": 2300000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 2300000
+  },
+  {
+    "id_detail_tagihan": "DT019",
+    "id_tagihan": "TGH019",
+    "id_layanan": "L019",
+    "subtotal": 2400000,
+    "status_cover": "cover",
+    "nominal_cover": 2400000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT020",
+    "id_tagihan": "TGH020",
+    "id_layanan": "L020",
+    "subtotal": 2500000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 2500000
+  },
+  {
+    "id_detail_tagihan": "DT021",
+    "id_tagihan": "TGH021",
+    "id_layanan": "L021",
+    "subtotal": 2600000,
+    "status_cover": "cover",
+    "nominal_cover": 2600000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT022",
+    "id_tagihan": "TGH022",
+    "id_layanan": "L022",
+    "subtotal": 2700000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 2700000
+  },
+  {
+    "id_detail_tagihan": "DT023",
+    "id_tagihan": "TGH023",
+    "id_layanan": "L023",
+    "subtotal": 2800000,
+    "status_cover": "cover",
+    "nominal_cover": 2800000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT024",
+    "id_tagihan": "TGH024",
+    "id_layanan": "L024",
+    "subtotal": 2900000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 2900000
+  },
+  {
+    "id_detail_tagihan": "DT025",
+    "id_tagihan": "TGH025",
+    "id_layanan": "L025",
+    "subtotal": 3000000,
+    "status_cover": "cover",
+    "nominal_cover": 3000000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT026",
+    "id_tagihan": "TGH026",
+    "id_layanan": "L026",
+    "subtotal": 3100000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 3100000
+  },
+  {
+    "id_detail_tagihan": "DT027",
+    "id_tagihan": "TGH027",
+    "id_layanan": "L027",
+    "subtotal": 3200000,
+    "status_cover": "cover",
+    "nominal_cover": 3200000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT028",
+    "id_tagihan": "TGH028",
+    "id_layanan": "L028",
+    "subtotal": 3300000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 3300000
+  },
+  {
+    "id_detail_tagihan": "DT029",
+    "id_tagihan": "TGH029",
+    "id_layanan": "L029",
+    "subtotal": 3400000,
+    "status_cover": "cover",
+    "nominal_cover": 3400000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT030",
+    "id_tagihan": "TGH030",
+    "id_layanan": "L030",
+    "subtotal": 3500000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 3500000
+  },
+  {
+    "id_detail_tagihan": "DT031",
+    "id_tagihan": "TGH031",
+    "id_layanan": "L031",
+    "subtotal": 3600000,
+    "status_cover": "cover",
+    "nominal_cover": 3600000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT032",
+    "id_tagihan": "TGH032",
+    "id_layanan": "L032",
+    "subtotal": 3700000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 3700000
+  },
+  {
+    "id_detail_tagihan": "DT033",
+    "id_tagihan": "TGH033",
+    "id_layanan": "L033",
+    "subtotal": 3800000,
+    "status_cover": "cover",
+    "nominal_cover": 3800000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT034",
+    "id_tagihan": "TGH034",
+    "id_layanan": "L034",
+    "subtotal": 3900000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 3900000
+  },
+  {
+    "id_detail_tagihan": "DT035",
+    "id_tagihan": "TGH035",
+    "id_layanan": "L035",
+    "subtotal": 4000000,
+    "status_cover": "cover",
+    "nominal_cover": 4000000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT036",
+    "id_tagihan": "TGH036",
+    "id_layanan": "L036",
+    "subtotal": 4100000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 4100000
+  },
+  {
+    "id_detail_tagihan": "DT037",
+    "id_tagihan": "TGH037",
+    "id_layanan": "L037",
+    "subtotal": 4200000,
+    "status_cover": "cover",
+    "nominal_cover": 4200000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT038",
+    "id_tagihan": "TGH038",
+    "id_layanan": "L038",
+    "subtotal": 4300000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 4300000
+  },
+  {
+    "id_detail_tagihan": "DT039",
+    "id_tagihan": "TGH039",
+    "id_layanan": "L039",
+    "subtotal": 4400000,
+    "status_cover": "cover",
+    "nominal_cover": 4400000,
+    "nominal_mandiri": 0
+  },
+  {
+    "id_detail_tagihan": "DT040",
+    "id_tagihan": "TGH040",
+    "id_layanan": "L040",
+    "subtotal": 4500000,
+    "status_cover": "tidak cover",
+    "nominal_cover": 0,
+    "nominal_mandiri": 4500000
+  }
+]

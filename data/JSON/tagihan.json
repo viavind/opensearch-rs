@@ -1,0 +1,282 @@
+[
+  {
+    "id_tagihan": "TGH001",
+    "id_pasien": "P001",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 3125000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH002",
+    "id_pasien": "P002",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 3250000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH003",
+    "id_pasien": "P003",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 3375000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH004",
+    "id_pasien": "P004",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 3500000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH005",
+    "id_pasien": "P005",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 3625000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH006",
+    "id_pasien": "P006",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 3750000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH007",
+    "id_pasien": "P007",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 3875000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH008",
+    "id_pasien": "P008",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 4000000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH009",
+    "id_pasien": "P009",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 4125000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH010",
+    "id_pasien": "P010",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 4250000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH011",
+    "id_pasien": "P011",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 4375000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH012",
+    "id_pasien": "P012",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 4500000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH013",
+    "id_pasien": "P013",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 4625000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH014",
+    "id_pasien": "P014",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 4750000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH015",
+    "id_pasien": "P015",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 4875000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH016",
+    "id_pasien": "P016",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 5000000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH017",
+    "id_pasien": "P017",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 5125000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH018",
+    "id_pasien": "P018",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 5250000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH019",
+    "id_pasien": "P019",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 5375000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH020",
+    "id_pasien": "P020",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 5500000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH021",
+    "id_pasien": "P021",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 5625000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH022",
+    "id_pasien": "P022",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 5750000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH023",
+    "id_pasien": "P023",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 5875000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH024",
+    "id_pasien": "P024",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 6000000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH025",
+    "id_pasien": "P025",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 6125000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH026",
+    "id_pasien": "P026",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 6250000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH027",
+    "id_pasien": "P027",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 6375000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH028",
+    "id_pasien": "P028",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 6500000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH029",
+    "id_pasien": "P029",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 6625000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH030",
+    "id_pasien": "P030",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 6750000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH031",
+    "id_pasien": "P031",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 6875000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH032",
+    "id_pasien": "P032",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 7000000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH033",
+    "id_pasien": "P033",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 7125000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH034",
+    "id_pasien": "P034",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 7250000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH035",
+    "id_pasien": "P035",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 7375000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH036",
+    "id_pasien": "P036",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 7500000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH037",
+    "id_pasien": "P037",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 7625000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH038",
+    "id_pasien": "P038",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 7750000,
+    "status_bayar": "lunas"
+  },
+  {
+    "id_tagihan": "TGH039",
+    "id_pasien": "P039",
+    "metode_pembayaran": "asuransi",
+    "total_biaya": 7875000,
+    "status_bayar": "belum lunas"
+  },
+  {
+    "id_tagihan": "TGH040",
+    "id_pasien": "P040",
+    "metode_pembayaran": "pribadi",
+    "total_biaya": 8000000,
+    "status_bayar": "lunas"
+  }
+]

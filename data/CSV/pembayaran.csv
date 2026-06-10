@@ -1,0 +1,41 @@
+id_pembayaran,id_tagihan,metode_bayar,jumlah_bayar,status_bayar
+BYR001,TGH001,asuransi,2100000,berhasil
+BYR002,TGH002,tunai,2200000,berhasil
+BYR003,TGH003,debit,2300000,berhasil
+BYR004,TGH004,kartu kredit,2400000,berhasil
+BYR005,TGH005,asuransi,2500000,pending
+BYR006,TGH006,tunai,2600000,berhasil
+BYR007,TGH007,debit,2700000,berhasil
+BYR008,TGH008,kartu kredit,2800000,berhasil
+BYR009,TGH009,asuransi,2900000,berhasil
+BYR010,TGH010,tunai,3000000,pending
+BYR011,TGH011,debit,3100000,berhasil
+BYR012,TGH012,kartu kredit,3200000,berhasil
+BYR013,TGH013,asuransi,3300000,berhasil
+BYR014,TGH014,tunai,3400000,berhasil
+BYR015,TGH015,debit,3500000,pending
+BYR016,TGH016,kartu kredit,3600000,berhasil
+BYR017,TGH017,asuransi,3700000,berhasil
+BYR018,TGH018,tunai,3800000,berhasil
+BYR019,TGH019,debit,3900000,berhasil
+BYR020,TGH020,kartu kredit,4000000,pending
+BYR021,TGH021,asuransi,4100000,berhasil
+BYR022,TGH022,tunai,4200000,berhasil
+BYR023,TGH023,debit,4300000,berhasil
+BYR024,TGH024,kartu kredit,4400000,berhasil
+BYR025,TGH025,asuransi,4500000,pending
+BYR026,TGH026,tunai,4600000,berhasil
+BYR027,TGH027,debit,4700000,berhasil
+BYR028,TGH028,kartu kredit,4800000,berhasil
+BYR029,TGH029,asuransi,4900000,berhasil
+BYR030,TGH030,tunai,5000000,pending
+BYR031,TGH031,debit,5100000,berhasil
+BYR032,TGH032,kartu kredit,5200000,berhasil
+BYR033,TGH033,asuransi,5300000,berhasil
+BYR034,TGH034,tunai,5400000,berhasil
+BYR035,TGH035,debit,5500000,pending
+BYR036,TGH036,kartu kredit,5600000,berhasil
+BYR037,TGH037,asuransi,5700000,berhasil
+BYR038,TGH038,tunai,5800000,berhasil
+BYR039,TGH039,debit,5900000,berhasil
+BYR040,TGH040,kartu kredit,6000000,pending
