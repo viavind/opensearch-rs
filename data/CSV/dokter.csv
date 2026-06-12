@@ -2,7 +2,7 @@ id_dokter,nama_dokter,spesialisasi,id_departemen
 D001,Dr. Budi,Kardiologi,DEP001
 D002,Dr. Badu,Neurologi,DEP002
 D003,Dr. Beduh,Neurologi,DEP002
-D004,Dr. Amin,Neurologi,DEP002
+D004,Dr. Dokter 4,Neurologi,DEP002
 D005,Dr. Dokter 5,Kardiologi,DEP001
 D006,Dr. Dokter 6,Neurologi,DEP002
 D007,Dr. Dokter 7,Kardiologi,DEP001
