@@ -1,1 +1,242 @@
-[ { "id_dokter": "D001", "nama_dokter": "Dr. Budi", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D002", "nama_dokter": "Dr. Badu", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D003", "nama_dokter": "Dr. Beduh", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D004", "nama_dokter": "Dr. Amin", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D005", "nama_dokter": "Dr. Dokter 5", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D006", "nama_dokter": "Dr. Dokter 6", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D007", "nama_dokter": "Dr. Dokter 7", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D008", "nama_dokter": "Dr. Dokter 8", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D009", "nama_dokter": "Dr. Dokter 9", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D010", "nama_dokter": "Dr. Dokter 10", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D011", "nama_dokter": "Dr. Dokter 11", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D012", "nama_dokter": "Dr. Dokter 12", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D013", "nama_dokter": "Dr. Dokter 13", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D014", "nama_dokter": "Dr. Dokter 14", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D015", "nama_dokter": "Dr. Dokter 15", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D016", "nama_dokter": "Dr. Dokter 16", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D017", "nama_dokter": "Dr. Dokter 17", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D018", "nama_dokter": "Dr. Dokter 18", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D019", "nama_dokter": "Dr. Dokter 19", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D020", "nama_dokter": "Dr. Dokter 20", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D021", "nama_dokter": "Dr. Dokter 21", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D022", "nama_dokter": "Dr. Dokter 22", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D023", "nama_dokter": "Dr. Dokter 23", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D024", "nama_dokter": "Dr. Dokter 24", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D025", "nama_dokter": "Dr. Dokter 25", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D026", "nama_dokter": "Dr. Dokter 26", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D027", "nama_dokter": "Dr. Dokter 27", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D028", "nama_dokter": "Dr. Dokter 28", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D029", "nama_dokter": "Dr. Dokter 29", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D030", "nama_dokter": "Dr. Dokter 30", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D031", "nama_dokter": "Dr. Dokter 31", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D032", "nama_dokter": "Dr. Dokter 32", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D033", "nama_dokter": "Dr. Dokter 33", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D034", "nama_dokter": "Dr. Dokter 34", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D035", "nama_dokter": "Dr. Dokter 35", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D036", "nama_dokter": "Dr. Dokter 36", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D037", "nama_dokter": "Dr. Dokter 37", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D038", "nama_dokter": "Dr. Dokter 38", "spesialisasi": "Neurologi", "id_departemen": "DEP002" }, { "id_dokter": "D039", "nama_dokter": "Dr. Dokter 39", "spesialisasi": "Kardiologi", "id_departemen": "DEP001" }, { "id_dokter": "D040", "nama_dokter": "Dr. Dokter 40", "spesialisasi": "Neurologi", "id_departemen": "DEP002" } ]
+[
+  {
+    "id_dokter": "D001",
+    "nama_dokter": "Dr. Budi",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D002",
+    "nama_dokter": "Dr. Badu",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D003",
+    "nama_dokter": "Dr. Beduh",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D004",
+    "nama_dokter": "Dr. Dokter 4",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D005",
+    "nama_dokter": "Dr. Dokter 5",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D006",
+    "nama_dokter": "Dr. Dokter 6",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D007",
+    "nama_dokter": "Dr. Dokter 7",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D008",
+    "nama_dokter": "Dr. Dokter 8",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D009",
+    "nama_dokter": "Dr. Dokter 9",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D010",
+    "nama_dokter": "Dr. Dokter 10",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D011",
+    "nama_dokter": "Dr. Dokter 11",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D012",
+    "nama_dokter": "Dr. Dokter 12",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D013",
+    "nama_dokter": "Dr. Dokter 13",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D014",
+    "nama_dokter": "Dr. Dokter 14",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D015",
+    "nama_dokter": "Dr. Dokter 15",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D016",
+    "nama_dokter": "Dr. Dokter 16",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D017",
+    "nama_dokter": "Dr. Dokter 17",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D018",
+    "nama_dokter": "Dr. Dokter 18",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D019",
+    "nama_dokter": "Dr. Dokter 19",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D020",
+    "nama_dokter": "Dr. Dokter 20",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D021",
+    "nama_dokter": "Dr. Dokter 21",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D022",
+    "nama_dokter": "Dr. Dokter 22",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D023",
+    "nama_dokter": "Dr. Dokter 23",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D024",
+    "nama_dokter": "Dr. Dokter 24",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D025",
+    "nama_dokter": "Dr. Dokter 25",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D026",
+    "nama_dokter": "Dr. Dokter 26",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D027",
+    "nama_dokter": "Dr. Dokter 27",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D028",
+    "nama_dokter": "Dr. Dokter 28",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D029",
+    "nama_dokter": "Dr. Dokter 29",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D030",
+    "nama_dokter": "Dr. Dokter 30",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D031",
+    "nama_dokter": "Dr. Dokter 31",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D032",
+    "nama_dokter": "Dr. Dokter 32",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D033",
+    "nama_dokter": "Dr. Dokter 33",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D034",
+    "nama_dokter": "Dr. Dokter 34",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D035",
+    "nama_dokter": "Dr. Dokter 35",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D036",
+    "nama_dokter": "Dr. Dokter 36",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D037",
+    "nama_dokter": "Dr. Dokter 37",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D038",
+    "nama_dokter": "Dr. Dokter 38",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  },
+  {
+    "id_dokter": "D039",
+    "nama_dokter": "Dr. Dokter 39",
+    "spesialisasi": "Kardiologi",
+    "id_departemen": "DEP001"
+  },
+  {
+    "id_dokter": "D040",
+    "nama_dokter": "Dr. Dokter 40",
+    "spesialisasi": "Neurologi",
+    "id_departemen": "DEP002"
+  }
+]
